@@ -1,4 +1,4 @@
-olid](https://image.ibb.co/bSHK4b/apache_kafka.png)](https://github.com/ArturoGonzalezBecerril/kafka-Instalacion-cluster)
+solid](https://image.ibb.co/bSHK4b/apache_kafka.png)](https://github.com/ArturoGonzalezBecerril/kafka-Instalacion-cluster)
 
 # Que es?
 -  Es un sistema de mensajería basado en el modelo publicador/susbcriptor, persistente, escalable, replicado, tolerante a fallos.
